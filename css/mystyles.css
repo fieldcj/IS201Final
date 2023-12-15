@@ -1,0 +1,42 @@
+.bold {
+    font-weight: bold;
+}
+
+body {
+    background-color: rgb(219, 218, 218);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black
+}
+
+h2 {
+    text-align: center;
+}
+
+a {
+    color: rgb(86, 84, 84);
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    font-weight: bold;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.small {
+    font-size: xx-small;
+}
+
+.box {
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    padding: 5px;
+}
+
+.common {
+
+}
